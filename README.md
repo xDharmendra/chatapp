@@ -1,7 +1,6 @@
 # Group Chat Application
 
-- Visit **[Click here and see the magic](https://chatapp-roan-theta.vercel.app/)**
-- Visit **[Click here and see the magic](https://lucy-chatapp.onrender.com/)**
+> Visit **[To Access the application Click either of the link and see the magic](https://chatapp-roan-theta.vercel.app/)[-](https://lucy-chatapp.onrender.com/)**
 
 This project is a simple real-time group chat application that uses HTML, CSS, JavaScript (with Socket.IO), and Node.js. It provides a user interface for sending and receiving messages in a chat environment.
 
