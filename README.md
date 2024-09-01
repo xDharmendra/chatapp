@@ -4,6 +4,8 @@
 - Visit **[Click Me](https://lucy-chatapp.onrender.com/)** 
 
 This project is a simple real-time group chat application that uses HTML, CSS, JavaScript (with Socket.IO), and Node.js. It provides a user interface for sending and receiving messages in a chat environment.
+![Chat App](chatapp.png)
+
 
 ## Description
 
